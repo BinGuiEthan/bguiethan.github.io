@@ -1,5 +1,5 @@
 body{
-    background:url(./images/background.jpg)  no-repeat center center;
+    background:url(./images/background.jpg)  repeat-x repeat-y ;
     background-size:852px 840px;
     background-attachment:fixed;
     background-color:#CCCCCC;
